@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi I'm Phumlani Mnguni👋<br><br>I specialize in **Risk** and **Data Analytics**, combining expertise in **Economics**, **Statistics**, **Cloud engineering** and **Data engineering** to build scalable, data-driven solutions.
+<br>Hi I'm Phumlani Mnguni👋<br><br>I specialize in **Security**, **Cost-Optimisation** and **Data Analytics**, combining expertise in **Economics**, **Statistics**, **Cloud engineering** and **Data engineering** to build scalable, data-driven solutions.
 With 1+ years of experience, I focus on building data and cloud infrastructure across diverse industries.
 <br><br>Proficient in **SQL**, **python**, **terraform** and **statistical analysis**. I deliver impactful results by balancing risk and reward. I am a **BCom Economics and Statistics graduate**, with strong interest in **DevOps**, **AI** and **Data engineering**.<br>
 
